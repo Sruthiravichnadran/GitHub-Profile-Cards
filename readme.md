@@ -30,6 +30,6 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/Sruthiravichnadran/GitHub-Profile-Cards
 
-- Live Site URL: 
+- Live Site URL: https://deft-shortbread-de2bb9.netlify.app/
